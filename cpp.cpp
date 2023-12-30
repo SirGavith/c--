@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//Chess game
 class TicTacBoard
 {
 public:
